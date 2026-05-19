@@ -1,0 +1,51 @@
+[
+  {
+    "id": "b607079d-8d0b-4401-a88a-769057ed8ba2",
+    "amount": 15.5,
+    "category": "alimentacion",
+    "date": "2026-05-18",
+    "description": "Supermercado"
+  },
+  {
+    "id": "6bedafbd-c1cc-4de5-8766-ea999749e6d9",
+    "amount": 32,
+    "category": "transporte",
+    "date": "2026-05-11",
+    "description": "gasto tarjeta mensual"
+  },
+  {
+    "id": "14913a0d-f2a9-477f-9386-c9d266c712ab",
+    "amount": 4,
+    "category": "salud",
+    "date": "2026-05-16",
+    "description": "Ibuprofeno"
+  },
+  {
+    "id": "ca5ce7d0-8871-4f6f-82a5-5b0618116433",
+    "amount": 30,
+    "category": "hogar",
+    "date": "2026-05-18",
+    "description": "semana alimentos"
+  },
+  {
+    "id": "9fe90fdb-a889-42a3-ab80-d2094b2826d9",
+    "amount": 40,
+    "category": "ocio",
+    "date": "2026-05-18",
+    "description": "restaurantes san isidro"
+  },
+  {
+    "id": "de7821cd-ed94-4c58-aba1-2b7004ffc331",
+    "amount": 10,
+    "category": "ropa",
+    "date": "2026-05-18",
+    "description": "protector solar"
+  },
+  {
+    "id": "19013a69-a5ff-49c1-a0ab-701223248f27",
+    "amount": 5,
+    "category": "educacion",
+    "date": "2026-05-18",
+    "description": "fotocopias"
+  }
+]
